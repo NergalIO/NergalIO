@@ -14,7 +14,7 @@ class Developer:
         self.name = "NergalIO"
         self.role = "Developer"
         self.passion = ["Кодинг", "Создание проектов", "Изучение новых технологий"]
-        self.current_learning = ["Python", "Web Development", "Open Source"]
+        self.current_learning = ["Python", "Unity", "C#", "Open Source"]
     
     def say_hi(self):
         return "Привет! Рад видеть тебя на моем профиле! 👋"
